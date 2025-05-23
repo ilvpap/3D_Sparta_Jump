@@ -1,5 +1,4 @@
-# 3D_Sparta_Jump
-# JumpKing 3D (Unity 프로젝트)
+# 3D Sparta Jump (Unity 프로젝트)
 
 Unity로 구현한 1인칭 기반 점프형 미니 게임입니다.  
 기본적인 이동, 점프, 아이템 습득 및 사용, 점프대 물리 작용, UI 상태 관리 등을 포함하고 있으며,  
